@@ -1,2 +1,2 @@
-# sym-dev.github.io
-https://sym-dev.github.io/
+# Simirall.github.io
+https://Simirall.github.io/
